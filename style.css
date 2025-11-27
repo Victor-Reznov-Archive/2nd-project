@@ -18,7 +18,7 @@ body{
     height: 100px;
     text-align: center;
     box-sizing: border-box;
-    opacity: 0.94;
+    opacity: 0.9;
 }
 .containerL{
     background-color: #999;
@@ -84,3 +84,4 @@ body{
     width: 20%;
     height: 15%;
 }
+
