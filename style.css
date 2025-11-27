@@ -5,7 +5,10 @@ body{
     padding: 0;
     width: 90%;
     justify-content: center;
-    background-image: url(./images/image1\ room.jpg);
+    background-image: url(images/image1\ room.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 
 }
 
@@ -15,6 +18,7 @@ body{
     height: 100px;
     text-align: center;
     box-sizing: border-box;
+    opacity: 0.94;
 }
 .containerL{
     background-color: #999;
@@ -79,5 +83,4 @@ body{
     margin: 25px;
     width: 20%;
     height: 15%;
-
 }
